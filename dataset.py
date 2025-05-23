@@ -10,7 +10,6 @@ def read_jsonl(path: str):
 
 
 def get_examples(split):
-    # Fix the path to point directly to the grade_school_math directory
     path = os.path.join("grade_school_math", f"{split}.jsonl")
     print(f"Looking for data file at: {path}")
     examples = read_jsonl(path)
