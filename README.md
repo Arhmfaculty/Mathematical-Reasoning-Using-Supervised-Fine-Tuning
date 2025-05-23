@@ -49,7 +49,6 @@ This project showcases how Large Language Models (LLMs), specifically **Qwen2.5 
 ```bash
 pip install -r requirements.txt
 ```
-# .env file
 
 ```Fine-Tune Model
 python train.py
