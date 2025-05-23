@@ -65,6 +65,7 @@ python sample.py
 
 ### Why This Matters
 This project bridges the gap between large language models and human-level mathematical reasoning. It demonstrates how instruction-tuned LLMs, when given structured training data and clear prompts, can generalize complex reasoning tasks such as multi-step arithmetic — a key benchmark for evaluating LLM intelligence.
+
 ---
 ##  Citation
 {
